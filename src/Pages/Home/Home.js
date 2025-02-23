@@ -200,7 +200,6 @@ const Home = () => {
                     <option value="7">Last Week</option>
                     <option value="30">Last Month</option>
                     <option value="365">Last Year</option>
-                    <option value="custom">Custom</option>
                   </Form.Select>
                 </Form.Group>
               </div>
@@ -289,6 +288,7 @@ const Home = () => {
                           <option value="Utilities">Utilities</option>
                           <option value="Entertainment">Entertainment</option>
                           <option value="Transportation">Transportation</option>
+                          <option value="Education">Education</option>
                           <option value="Other">Other</option>
                         </Form.Select>
                       </Form.Group>
